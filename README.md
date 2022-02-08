@@ -1,4 +1,4 @@
-# :bank: Bank-Automation  :money_with_wings:
+# :bank: Banka Otomasyonu  :money_with_wings:
 
 **Emin Bank** *Java, Swing*  kullanılarak hazırlanmış bir not defteri sistemidir.  
 Varsayılan olarak deneme hesapları oluşturulmuştur.  
