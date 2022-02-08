@@ -1,0 +1,15 @@
+11111111111/Hesap başvurusu yapıldı./10.01.2021 16:04:56
+11111111111/Kredi kartı başvurusu yapıldı./10.01.2021 16:05:18
+11111111111/Kredi başvurusu yapıldı./10.01.2021 16:05:51
+22222222222/Hesap başvurusu yapıldı./10.01.2021 16:06:38
+22222222222/Kredi kartı başvurusu yapıldı./10.01.2021 16:06:52
+22222222222/Kredi başvurusu yapıldı./10.01.2021 16:07:05
+22222222222/850TL ücret TR447758512431373125583465 hesabınıza yatırıldı./10.01.2021 16:08:39
+22222222222/18000TL ücret TR447758512431373125583465 hesabınızdan çekildi./10.01.2021 16:08:52
+22222222222/135TL ücretli Elektrik faturası 7187969651787806 numaralı kredi kartınızdan ödendi/10.01.2021 16:09:06
+11111111111/15000TL ücret TR398944947558826776164132 hesabınızdan çekildi./10.01.2021 16:09:42
+11111111111/350TL ücretli İnternet faturası TR398944947558826776164132 numaralı hesabınızdan ödendi/10.01.2021 16:10:00
+11111111111/Hesap başvurusu yapıldı./08.02.2022 18:23:40
+11111111111/Kredi kartı başvurusu yapıldı./08.02.2022 18:23:58
+11111111111/Kredi başvurusu yapıldı./08.02.2022 18:24:19
+11111111111/4647734978176316 numaralı kartınızda limit değişikliği başvurusu yapıldı. Talep edilen limit: 7800/08.02.2022 18:26:25
